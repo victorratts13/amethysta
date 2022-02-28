@@ -1,0 +1,2 @@
+# amethysta
+Smart Contract Validator
