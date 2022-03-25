@@ -1,0 +1,40 @@
+{
+  "name": "amethysta",
+  "version": "1.0.0",
+  "description": "Smart Contract Validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorratts13/amethysta.git"
+  },
+  "keywords": [
+    "Etherium",
+    "ETH",
+    "SmartContract",
+    "Smart",
+    "contracts",
+    "Contracts",
+    "smart",
+    "Gas",
+    "ECR20",
+    "BTC"
+  ],
+  "author": "Ratts13",
+  "license": "GPL",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/victorratts13/amethysta/issues"
+  },
+  "homepage": "https://github.com/victorratts13/amethysta#readme",
+  "dependencies": {
+    "@solidity-parser/parser": "^0.14.1",
+    "axios": "^0.26.1",
+    "axios-cookiejar-support": "^2.0.4",
+    "form-data": "^4.0.0",
+    "qs": "^6.10.3",
+    "tough-cookie": "^4.0.0"
+  }
+}
